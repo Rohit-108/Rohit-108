@@ -1,3 +1,5 @@
+![logo](https://github.com/RohitInnovates/RohitInnovates/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">I 'm passionate front-end developer specialized in building exceptional web apps based in Uttar Pradesh, India 📍</h3>
 <img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
