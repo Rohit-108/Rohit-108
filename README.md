@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-108&show_icons=true&locale=en" alt="rohit-108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitinnovates&" alt="rohitinnovates" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-108&" alt="rohit-108" /></p>
 
 Support 🙏
 Are you using the tool and happy with it to create your GitHub Profile?
