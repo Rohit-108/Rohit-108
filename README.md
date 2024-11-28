@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rohitsharma1082001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1keFUi8Q4pi4fiNw8oAqSLyYuAB7fpbMn/view?usp=sharing)
+- 📄 Know about my experiences [Resume]. https://drive.google.com/file/d/1k5OmxFpKfFf2cELE4sZ-pNfmtDheXHJD/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny😎**
 
