@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Tailwind, ReactJs, Rest Api**
 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/rohit-sharma108/)
+- 👨‍💻 All of my projects are available at [Linkedin]([https://www.linkedin.com/in/rohit-sharma108/])
 
 - 💬 Ask me about **Bootstrap, Tailwind, ReactJs**
 
