@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/@rohitsh5587" target="blank"><img src="https://img.shields.io/twitter/follow/@rohitsh5587?logo=twitter&style=for-the-badge" alt="@rohitsh5587" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind, ReactJs, Rest Api**
+- 🌱 I’m currently learning **Tailwind, ReactJs, Nodejs, Cyber Security, **
 
 - 👨‍💻 All of my projects are available at [Linkedin]([https://www.linkedin.com/in/rohit-sharma108/])
 
-- 💬 Ask me about **Bootstrap, Tailwind, ReactJs**
+- 💬 Ask me about **Bootstrap, Tailwind, ReactJs, Javascript,CyberSecurity**
 
 - 📫 How to reach me **rohitsharma1082001@gmail.com**
 
